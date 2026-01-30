@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1769755487 source:c:\users\personal\desktop\ejercicios del capitulo 2 de fundamentos del programador\ejercicio 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

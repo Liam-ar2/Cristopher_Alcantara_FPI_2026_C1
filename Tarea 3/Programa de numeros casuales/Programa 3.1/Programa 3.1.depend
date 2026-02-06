@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1770340695 source:c:\users\personal\desktop\cristopher_alcantara_fpi_2026_c1\cristopher_alcantara_fpi_2026_c1\tarea 3\programa de numeros casuales\programa 3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

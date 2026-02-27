@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1772128912 source:c:\users\personal\desktop\cristopher_alcantara_fpi_2026_c1\cristopher_alcantara_fpi_2026_c1\tarea 5\ejercicios del capitulo 7\ejercicio 15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
